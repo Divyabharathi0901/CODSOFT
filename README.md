@@ -1,4 +1,4 @@
-Movie Genre Classification
+CODSOFT TASK 1- Movie Genre Classification
 
 This repository contains the work I completed for Task 1 of my CodSoft internship, titled "MOVIE GENRE CLASSIFICATION". The project focuses on developing a text classification system to categorize movie genres based on their descriptions.
 
